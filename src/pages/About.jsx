@@ -4,7 +4,7 @@ function About() {
   return (
     <>
       <Helmet>
-        <title>About Rajdhani Biofuels | Biofuel Supplier in Bihar</title>
+        <title>About Eco Gre Energy Biofuels | Biofuel Supplier in Bihar</title>
         <meta
           name="description"
           content="Learn about Rajdhani Biofuels Corporation, a trusted biodiesel and renewable energy company in Patna, Bihar."
@@ -15,7 +15,7 @@ function About() {
         <h1 className="section-title">About Rajdhani Biofuels Corporation</h1>
 
         <p>
-          Rajdhani Biofuels Corporation is a Patna-based renewable energy
+          Eco Gre Energy Biofuels Corporation is a renewable energy
           company providing sustainable biodiesel and green fuel solutions.
         </p>
       </div>
