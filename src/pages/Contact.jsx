@@ -4,19 +4,18 @@ function Contact() {
   return (
     <>
       <Helmet>
-        <title>Contact Rajdhani Biofuels | Patna Bihar</title>
+        <title>Contact Eco Gre Energy Biofuels | Gola Road, Mahua Bihar</title>
       </Helmet>
 
       <div className="container py-5">
         <h1 className="section-title">Contact Us</h1>
 
         <p>
-          1st Floor, 101, Sneh Highway, Jaganpura Mor, Kankarbagh, Patna, Bihar
-          - 800020
+          Gola Road, Near PNB Bank,Mahua,Vaishali,Bihar (844122), India
         </p>
 
-        <p>Phone: +91-9153983642</p>
-        <p>Email: info@rbfcindia.com</p>
+        <p>Phone: +91-9798426600 | +91-9006455664</p>
+        <p>Email: ecogreenergybiofuel@gmail.com</p>
       </div>
     </>
   );
