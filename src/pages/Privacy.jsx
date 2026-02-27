@@ -4,7 +4,7 @@ function Privacy() {
   return (
     <>
       <Helmet>
-        <title>Privacy Policy | Rajdhani Biofuels Corporation</title>
+        <title>Privacy Policy | Eco Gre Energy Biofuels Corporation</title>
         <meta
           name="description"
           content="Privacy policy of Rajdhani Biofuels Corporation, Patna Bihar."
@@ -14,7 +14,7 @@ function Privacy() {
       <div className="container py-5">
         <h1>Privacy Policy</h1>
         <p>
-          Rajdhani Biofuels Corporation respects your privacy and ensures
+          Eco Gre Energy Biofuels Corporation respects your privacy and ensures
           protection of all personal information collected through our website.
         </p>
         <p>
