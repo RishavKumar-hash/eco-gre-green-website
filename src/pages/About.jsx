@@ -18,6 +18,17 @@ function About() {
           Eco Gre Energy Biofuels Corporation is a renewable energy
           company providing sustainable biodiesel and green fuel solutions.
         </p>
+
+      <ul>
+          <li> CIN:- U46610BR2024PTC068516 </li>
+          <li> PAN:- AAICE0997M </li>
+          <li> TAN:- PTNE01871C </li>
+          <li> GST:- 10AAICE0997MIZE </li>
+
+        </ul>
+
+
+
       </div>
     </>
   );
