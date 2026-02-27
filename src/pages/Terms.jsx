@@ -4,14 +4,14 @@ function Terms() {
   return (
     <>
       <Helmet>
-        <title>Terms & Conditions | Rajdhani Biofuels Corporation</title>
+        <title>Terms & Conditions | Eco Gre Energy Biofuels Corporation</title>
       </Helmet>
 
       <div className="container py-5">
         <h1>Terms & Conditions</h1>
         <p>
           By accessing this website, you agree to comply with the terms and
-          conditions set by Rajdhani Biofuels Corporation.
+          conditions set by Eco Gre Energy Biofuels Corporation.
         </p>
       </div>
     </>
