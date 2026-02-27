@@ -24,6 +24,15 @@ export default function AboutSection() {
         </ul>
 
         <button className="about-btn">Explore More</button>
+
+ <ul>
+          <li> CIN:- U46610BR2024PTC068516 </li>
+          <li> PAN:- AAICE0997M </li>
+          <li> TAN:- PTNE01871C </li>
+          <li> GST:- 10AAICE0997MIZE </li>
+
+        </ul>
+
       </div>
 
       <div className="about-right">
