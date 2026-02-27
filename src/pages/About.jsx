@@ -7,12 +7,12 @@ function About() {
         <title>About Eco Gre Energy Biofuels | Biofuel Supplier in Bihar</title>
         <meta
           name="description"
-          content="Learn about Rajdhani Biofuels Corporation, a trusted biodiesel and renewable energy company in Patna, Bihar."
+          content="Learn about Eco Gre Energy Biofuels Corporation, a trusted biodiesel and renewable energy company in Mahua, Bihar."
         />
       </Helmet>
 
       <div className="container py-5">
-        <h1 className="section-title">About Rajdhani Biofuels Corporation</h1>
+        <h1 className="section-title">About Eco Gre Energy Biofuels</h1>
 
         <p>
           Eco Gre Energy Biofuels Corporation is a renewable energy
